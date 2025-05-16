@@ -1,0 +1,22 @@
+#Amazon Product Reviews
+##Description
+This is a large-scale Amazon Reviews dataset collected in 2023. This dataset contains 48.19 million items, and 571.54 million reviews from 54.51 million users.
+
+##Basic statistics
+Ratings:	571.54 million
+Users:	54.51 million
+Items:	48.19 million
+Timespan:	May 1996 - September 2023
+
+##Metadata
+User Reviews (ratings, text, helpfulness votes, etc.);
+Item Metadata (descriptions, price, raw image, etc.);
+Links (user-item / bought together graphs).
+
+See the Amazon Reviews 2023 
+
+You can also download data from previous versions of these datasets:： https://urldefense.com/v3/__https://amazon-reviews-2023.github.io/__;!!Mih3wA!EGkx27nmvdVMhh2uxQ7Mc0rNrXQwV8GsOpd3uSc6ZjJGAVhgy9o5bn3Jeb73P4Lz7oL2dIDMK96iAWA$
+
+Amazon Reviews 2018： https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
+
+Amazon Reviews 2014： https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html
