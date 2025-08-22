@@ -8,9 +8,6 @@ This script provides complete functionality for:
 3. Model evaluation and recommendation generation
 4. Hyperparameter tuning and experimentation
 5. Results visualization and analysis
-
-Author: Athena Project Team
-Date: June 2025
 """
 
 import os
@@ -727,4 +724,5 @@ def main():
         raise
 
 if __name__ == "__main__":
+
     main()
